@@ -34,9 +34,3 @@ The analysis revealed that rainfall, pesticide use, and temperature have varying
 
 ## Dataset Link
 The dataset used for this analysis can be found on Kaggle: [Crop Yield Prediction Dataset](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset).
-
-The analysis can be extended to other countries or regions to compare and contrast the impact of these factors on crop yield in different contexts. 
-The insights gained from this analysis can be used to inform agricultural practices and policies aimed at optimizing crop yield and ensuring food security.
-
-## Dataset Link
-The dataset used for this analysis can be found on Kaggle: [Crop Yield Prediction Dataset](https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset).
